@@ -4,4 +4,4 @@ Disallow: /resources/
 Disallow: /privacy-policy/
 Disallow: /thank-you/
 
-Sitemap: https://www.fiveguysplumbingcanton.com/sitemap.xml
+Sitemap: https://fiveguysplumbingcanton.com/sitemap.xml
